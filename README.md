@@ -5,7 +5,7 @@
 - I was learning NodeJS and React in two bootcamps.
 - I'm currently learning more about React, React Native, NodeJS and JestJS.
 - You can know more about me in my portfolio ().
-- All of my projects are available at https://github.com/ericgarciad
+- All of my projects are available at https://github.com/ericgarciad?tab=repositories
 -  You can to reach me eric.garciad@gmail.com or my linkedin: https://www.linkedin.com/in/eric-garcia-d/ .
 
 ### Lenguages and Tools:
