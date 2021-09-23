@@ -3,7 +3,7 @@
 ### A MERN Fullstack Developer
 
 - I have learnt NodeJS and React in two bootcamps.
-- I am currently self-learning more about React, React Native, NodeJS and JestJS.
+- I am currently self-learning more about ReactJS, AngularJS, NodeJS and JestJS.
 - You can know more about me in my portfolio https://ericgarciad.netlify.app/ .
 - All of my projects are available in https://github.com/ericgarciad?tab=repositories
 -  You can reach me on e-mail (eric.garciad@gmail.com) or linkedin (https://www.linkedin.com/in/eric-garcia-d/).
